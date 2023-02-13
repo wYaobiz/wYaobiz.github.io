@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research assistant | <a href='https://fintechlab-njit.netlify.app/'>Fintech Lab</a> |  <a href='https://fintechlab-njit.netlify.app/'>New Jersey Institute of Technology</a>
+subtitle: Research Assistant | <a href='https://fintechlab-njit.netlify.app/'>Fintech Lab</a> |  <a href='https://fintechlab-njit.netlify.app/'>New Jersey Institute of Technology</a>
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>GITC 4420</p>
-    <p>323 Dr Martin Luther King Jr Blvd</p>
-    <p>Newark, NJ 07102</p>
+    <p>wy95 [at] njit.edu</p>
+    <p>New Jersey Institute of Technology</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
