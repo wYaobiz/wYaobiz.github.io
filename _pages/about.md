@@ -19,7 +19,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P. Deek](https://people.njit.edu/faculty/deek) .
 
-**Research interest:** I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of cryptograhpic protocols. In particular, my research aims at solving those key issues preventing the blockchain from being widely used in practice.
+# Research interest
+I have a broad spectrum of interests in blockchain consensus, decentralized applications, and the design and analysis of cryptograhpic protocols. In particular, my research aims at solving those key issues preventing the blockchain from being widely used in practice.
 *Interested in collaboration? Contact me.*
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
