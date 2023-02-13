@@ -19,12 +19,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P. Deek](https://people.njit.edu/faculty/deek).
 
-He holds a Master’s degree in Electrical engineering from [University of Hartford](https://www.hartford.edu/) and Master’s degree in Computer Science from [Central Connecticut State University](https://www2.ccsu.edu/), and Bachelor’s degree in Computer Science from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).
+He holds a Master’s degree in Electrical Engineering from [University of Hartford](https://www.hartford.edu/) and Master’s degree in Computer Science from [Central Connecticut State University](https://www2.ccsu.edu/), and Bachelor’s degree in Computer Science from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).
 
 Besides academic research, his industry experience includes software engineer and product manager at the [ENN group](https://www.enn.cn). 
 
 # Research interest
-He has a broad spectrum of interests in blockchain consensus, decentralized applications, health information exchange, and computer networks. His research aims to build widely used decentralized applications based on blockchain for different areas and solve critical issues preventing the blockchain from being used. 
+He has a broad spectrum of interests in blockchain consensus, decentralized applications, health information exchange, and computer networks. His research aims to build widely used decentralized applications based on blockchain for different areas and solve critical issues preventing the blockchain from being used.
+ 
 *Interested in collaboration? Contact me.*
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
