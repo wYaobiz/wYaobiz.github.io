@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research assistant.<a href='https://fintechlab-njit.netlify.app/'>NJIT Fintech Lab</a>. 
+subtitle: Research assistant | <a href='https://fintechlab-njit.netlify.app/'>Fintech Lab</a> |  <a href='https://fintechlab-njit.netlify.app/'>New Jersey Institute of Technology</a>
 
 profile:
   align: right
