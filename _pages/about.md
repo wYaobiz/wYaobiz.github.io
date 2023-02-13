@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: IMG_3669.jpg
+  image: zipai.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>GITC 4420</p>
