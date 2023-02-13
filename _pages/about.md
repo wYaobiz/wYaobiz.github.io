@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.njit.edu/'>NJIT</a>. 323 Dr Martin Luther King Jr Blvd, Newark, NJ, 07012. Contacts. Moto. Etc.
+# subtitle: <a href='https://www.njit.edu/'>NJIT</a>. 323 Dr Martin Luther King Jr Blvd, Newark, NJ, 07012. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -13,11 +13,11 @@ profile:
     <p>323 Dr Martin Luther King Jr Blvd</p>
     <p>Newark, NJ 07102</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P.Deek](https://people.njit.edu/faculty/deek) .
+Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P. Deek](https://people.njit.edu/faculty/deek) .
 
 **Research interest:** robust machine learning, out-of-distribution / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications such as activity recognition and computer vision. *Interested in internship or collaboration? Contact me.*
 
