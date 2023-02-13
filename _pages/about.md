@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>https://www.njit.edu/</a>. 323 Dr Martin Luther King Jr Blvd. Contacts. Moto. Etc.
+subtitle: <a href='https://www.njit.edu/'>NJIT</a>. 323 Dr Martin Luther King Jr Blvd, Newark, NJ, 07012. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -18,6 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P.Deek](https://people.njit.edu/faculty/deek) .
+
+**Research interest:** robust machine learning, out-of-distribution / domain generalization, transfer learning, semi-supervised learning, federated learning, and related applications such as activity recognition and computer vision. *Interested in internship or collaboration? Contact me.*
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
