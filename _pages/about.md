@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='https://www.njit.edu/'>NJIT</a>. 323 Dr Martin Luther King Jr Blvd, Newark, NJ, 07012. Contacts. Moto. Etc.
+subtitle: Research assistant.<a href='https://fintechlab-njit.netlify.app/'>NJIT Fintech Lab</a>. 
 
 profile:
   align: right
