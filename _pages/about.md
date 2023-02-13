@@ -17,7 +17,10 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P. Deek](https://people.njit.edu/faculty/deek) .
+Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P. Deek](https://people.njit.edu/faculty/deek).
+
+
+He holds a Master’s degree in Electrical engineering from [University of Hartford](https://www.hartford.edu/) and Master’s degree in Computer Science from [Central Connecticut State University](https://www2.ccsu.edu/), and Bachelor’s degree in Computer Science from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).
 
 # Research interest
 He has a broad spectrum of interests in blockchain consensus, decentralized applications, health information exchange, and computer networks. His research aims to build widely used decentralized applications based on blockchain for different areas and solve critical issues preventing the blockchain from being used. 
