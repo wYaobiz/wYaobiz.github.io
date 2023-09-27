@@ -3,14 +3,14 @@ layout: page
 permalink: /publications/
 title: publications
 description:
-years: [2022]
+years: [2022,2023]
 nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
 
 #### Preprints
-- A survey on consortium blockchain consensus mechanisms. **Wei Yao**, Junyi Ye, Renita Murimi, Guiling Wang. [[arxiv](https://arxiv.org/abs/2102.12058)]
+<!-- - A survey on consortium blockchain consensus mechanisms. **Wei Yao**, Junyi Ye, Renita Murimi, Guiling Wang. [[arxiv](https://arxiv.org/abs/2102.12058)] -->
 - Consensus Mechanisms in Consortium Blockchain: A Systematic Survey and Critical Analysis. **Wei Yao**, Fadi Deek, Renita Murimi, Guiling Wang. 
 - Considerations for Decision-makers and Developers toward Adoption of Decentralized Key Management Systems Technology in Emerging Applicationsl. **Wei Yao**, Nicholas Gorlewski, Fadi Deek, Guiling Wang.
 - A Systematic Approach for Evaluating Blockchain-Based Self-Sovereign Identity Systems. **Wei Yao**, Fadi Deek, Guiling Wang.
