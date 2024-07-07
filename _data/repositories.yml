@@ -1,13 +1,12 @@
 github_users:
   - wYaobiz
-  - NJIT-Fintech-Lab
-  - NJITBlockchainLab
 
 repo_description_lines_max: 2
 
 github_repos:
   - alshedivat/al-folio
   - jekyll/jekyll
+  - NJITBlockchainLab/bifold
   - twbs/bootstrap
   - jquery/jquery
   - FortAwesome/Font-Awesome
