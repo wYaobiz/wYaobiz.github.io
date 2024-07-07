@@ -5,7 +5,7 @@ permalink: /projects/
 description: Selected projects.
 nav: true
 nav_order: 2
-display_categories: [Academia, work, fun]
+display_categories: [Academia, Industry]
 horizontal: true
 ---
 
