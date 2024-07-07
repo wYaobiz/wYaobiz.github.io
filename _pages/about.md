@@ -6,7 +6,7 @@ subtitle: Research Assistant | <a href='https://fintechlab-njit.netlify.app/'>Fi
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: wei.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>GITC 4420</p>
