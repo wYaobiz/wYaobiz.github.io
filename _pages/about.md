@@ -26,7 +26,7 @@ Besides academic research, his industry experience includes software engineer an
 
 # Research Interest
 
-Wei has a broad spectrum of interests in blockchain consensus, decentralized applications, health information exchange, and computer networks. His research aims to build widely used decentralized applications based on blockchain for different areas and solve critical issues preventing the blockchain from being used.
+Wei has a broad spectrum of interests in blockchain consensus, decentralized applications, artificial intelligence, health information exchange, and computer networks. His research aims to build widely used decentralized applications based on blockchain for different areas and solve critical issues preventing the blockchain from being used.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
