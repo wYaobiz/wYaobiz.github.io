@@ -18,11 +18,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), and co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P. Deek](https://people.njit.edu/faculty/deek).
+Wei Yao is currently a Ph.D candidate in the Department of Computer Science at New Jersey Institute of Technology (NJIT), co-advised by Professor [Guiling (Grace) Wang](https://web.njit.edu/~gwang/) and Professor [Fadi P. Deek](https://people.njit.edu/faculty/deek).
 
 He holds a Master’s degree in Electrical Engineering from [University of Hartford](https://www.hartford.edu/) and Master’s degree in Computer Science from [Central Connecticut State University](https://www2.ccsu.edu/), and Bachelor’s degree in Computer Science from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).
 
-Besides academic research, his industry experience includes software engineer and product manager at the [ENN Group](https://www.enn.cn).
+Besides academic research, his industry experience includes software engineer and product manager at the [ENN Group](https://www.enn.cn). He also serves as a mentor for several open-source projects at the [Linux Foundation](https://lfx.linuxfoundation.org/tools/mentorship/) and the [Hyperledger](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program/) Community.
 
 # Research Interest
 
