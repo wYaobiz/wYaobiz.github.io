@@ -3,10 +3,10 @@ layout: page
 title: projects
 permalink: /projects/
 description: Selected projects.
-nav: true
+nav: false
 nav_order: 2
 display_categories: [Academia, Industry]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->
