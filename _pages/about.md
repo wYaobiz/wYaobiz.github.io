@@ -22,7 +22,7 @@ Wei Yao is currently a Ph.D candidate in the Department of Computer Science at N
 
 He holds a Master’s degree in Electrical Engineering from [University of Hartford](https://www.hartford.edu/) and Master’s degree in Computer Science from [Central Connecticut State University](https://www2.ccsu.edu/), and Bachelor’s degree in Computer Science from [Huazhong University of Science and Technology (HUST)](http://english.hust.edu.cn/).
 
-Besides academic research, his industry experience includes software engineer and product manager at the [ENN Group](https://www.enn.cn). He also serves as a mentor for several open-source projects at the [Linux Foundation](https://lfx.linuxfoundation.org/tools/mentorship/) and the [Hyperledger](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program/) Community.
+Besides academic research, his industry experience includes software engineer and product manager at the [ENN Group](https://www.enn.cn). He also serves as a mentor for several open-source projects at the [Linux Foundation](https://mentorship.lfx.linuxfoundation.org/mentor/ed523537-3e86-4e4e-84dd-d206adf82e2f) and the [Hyperledger](https://wiki.hyperledger.org/display/INTERN/Hyperledger+Mentorship+Program/) Community.
 
 # Research Interest
 
