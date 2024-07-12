@@ -2,7 +2,7 @@
 layout: page
 title: VDKMS
 description: VDKMS, Vehicular Decentralized Key Management System for Cellular Vehicular-to-Everything Networks
-img: assets/img/p_vdkms.jpg
+img: assets/img/project_preview/vdkms.svg
 importance: 2
 category: Academia
 ---
