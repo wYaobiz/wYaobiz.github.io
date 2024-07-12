@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Assistant | <a href='https://fintechlab-njit.netlify.app/'>Fintech Lab</a> |  <a href='https://www.njit.edu/'>New Jersey Institute of Technology</a>
 
