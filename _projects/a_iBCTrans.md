@@ -2,7 +2,7 @@
 layout: page
 title: iBCTrans
 description: iBCTrans, A Practical Blockchain-Based Framework for Cellular Vehicular-To-Everything Networks
-img: assets/img/p_iBCTrans.jpg
+img: assets/img/project_preview/ibctrans.svg
 importance: 1
 category: Academia
 ---
@@ -11,7 +11,7 @@ As Intelligent Transportation Systems and Connected Vehicles become increasingly
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/p_iBCTrans.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/p_ibctrans.svg" title="iBCTrans Architecture" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
