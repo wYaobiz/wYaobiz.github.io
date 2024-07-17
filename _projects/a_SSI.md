@@ -2,7 +2,7 @@
 layout: page
 title: SSI Evaluation
 description: Establishing a Baseline for Evaluating Blockchain-Based Self-Sovereign Identity Systems, A Systematic Approach to Assess Capability, Compatibility, and Interoperability
-img: assets/img/project_preview/ssi_evl.svg
+img: assets/img/project_preview/ssi_evl_100.jpg
 importance: 4
 category: Academia
 ---
@@ -11,7 +11,7 @@ Self-Sovereign Identity (SSI) is an evolving means of identity management that a
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/ssi_evl.svg" title="SSI Evaluation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/p_ssi_evl.jpg" title="SSI Evaluation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
