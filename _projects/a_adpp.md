@@ -2,7 +2,7 @@
 layout: page
 title: ADPP
 description: ADPP, a Novel Anomaly Detection and Privacy-Preserving Framework Using Blockchain and Neural Networks in Tokenomics
-img: assets/img/project_preview/adpp.svg
+img: assets/img/project_preview/adpp_100.jpg
 importance: 3
 category: Academia
 ---
@@ -13,7 +13,7 @@ The workflow of ADPP is shown in Figure 1. TCs first complete their initializati
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/p_adpp_blockchain.svg" title="ADPP Architecure" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/p_adpp_blockchain.jpg" title="ADPP Architecure" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,7 +24,7 @@ To extract topological dependence and temporal dynamics simultaneously from tran
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/p_adpp.svg" title="Anomaly Detection Model" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/p_adpp.jpg" title="Anomaly Detection Model" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
